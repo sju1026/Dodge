@@ -8,3 +8,6 @@
 ## Explanation
 새로 만든 맵에 관한 사진입니다.<br/>
 Dodge에서 사용하는 Player를 추적해 공격하는 Object를 살려 맵에 배치하고 최종 목적지에 도달하는 경우 시간을 체크하며 이를 기록하는 게임입니다.<br/>
+
+## GantChart
+![MIRO and Dodge](https://github.com/sju1026/Dodge/assets/128655662/ad185cd7-47ad-4ad1-b257-fb6663988d51)
